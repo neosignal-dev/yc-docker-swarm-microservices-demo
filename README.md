@@ -16,8 +16,8 @@
 
 ## Скриншоты
 ![Browser](screenshots/browser.png)
-![Docker services](screenshots/docker-service-ls.png)
-![Docker nodes](screenshots/docker-node-ls.png)
+![Docker services](screenshots/docker.png)
+![Terraform](screenshots/terraform.png)
 
 ## Команды для запуска
 См. [terraform/README.md](terraform/README.md) и [docker/README.md](docker/README.md)
