@@ -1,7 +1,5 @@
 ---
 
-## 📘 Внутренние `README.md`
-
 ### `terraform/README.md`
 
 ```markdown
