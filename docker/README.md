@@ -1,6 +1,5 @@
 ### `docker/README.md`
 
-```markdown
 ## Развёртывание сервисов в Docker Swarm
 
 ### Настройка кластера
