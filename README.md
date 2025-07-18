@@ -1,5 +1,9 @@
 # Yandex.Cloud Microservices Demo (Docker Swarm)
 
+## 📎 Оригинальный проект
+
+Этот проект основан на [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) от Google.
+
 ## Описание
 Развёртывание микросервисного приложения в Yandex.Cloud с использованием:
 - Terraform (инфраструктура)
