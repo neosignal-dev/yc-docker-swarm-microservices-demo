@@ -1,5 +1,3 @@
-## 📘 Внутренние `README.md`
-
 ### `terraform/README.md`
 
 ## Terraform конфигурация
